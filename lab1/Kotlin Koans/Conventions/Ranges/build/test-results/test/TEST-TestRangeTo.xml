@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRangeTo" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-09T10:26:43" hostname="Air-Patrycja.eduroam2.pollub.pl" time="0.004">
+  <properties/>
+  <testcase name="testAfter" classname="TestRangeTo" time="0.003"/>
+  <testcase name="testBefore" classname="TestRangeTo" time="0.0"/>
+  <testcase name="testInRange" classname="TestRangeTo" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
